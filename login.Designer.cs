@@ -1,6 +1,6 @@
 ﻿namespace ZM
 {
-    partial class Form1
+    partial class login
     {
         /// <summary>
         /// Wymagana zmienna projektanta.
