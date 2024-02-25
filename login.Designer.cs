@@ -44,7 +44,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::ZM.Properties.Resources.eskulap;
-            this.pictureBox1.Location = new System.Drawing.Point(123, 110);
+            this.pictureBox1.Location = new System.Drawing.Point(122, 118);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(207, 199);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
